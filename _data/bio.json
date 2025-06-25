@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Wo Jan",
+    "name": "Jean Castrellon",
     "label": "Software Developer",
     "picture": "https://avatars.githubusercontent.com/u/166072109?v=4",
     "website": "https://wo-jan.github.io",
@@ -15,13 +15,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "wo-jan",
-        "url": "http://github.com/wo-jan"
+        "username": "jeancastrellon",
+        "url": "http://github.com/jeancastrellon"
       },
       {
         "network": "linkedin",
-        "username": "Wo Jan",
-        "url": "https://www.linkedin.com"
+        "username": "Jean Castrellon",
+        "url": "https://www.linkedin.com/in/jean-castrellon-41422b360/"
       }
     ]
   },
