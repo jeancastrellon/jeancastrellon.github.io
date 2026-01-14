@@ -3,8 +3,8 @@
     "name": "Jean Castrellon",
     "label": "Software Developer",
     "picture": "https://avatars.githubusercontent.com/u/166072109?v=4",
-    "website": "https://wo-jan.github.io",
-    "summary": "I am currently studying software development, driven by enthusiasm and thirst for knowledge.  Continuously seeking fresh challenges and opportunities for enhancement.",
+    "website": "https://jeancastrellon.github.io",
+    "summary": "Backend-focused Software Engineer with a strong systems mindset. I design and build reliable, production-grade backend services and integrate AI-driven capabilities (LLMs, RAG) into real systems with emphasis on reliability, automation, and maintainability.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,54 +27,48 @@
   },
   "interests": [
     {
-      "name": "DevOps",
-      "keywords": []
+      "name": "AI-Driven Applications",
+      "keywords": ["LLM Integration", "RAG Systems", "Prompt Engineering"]
     },
     {
-      "name": "Microservices",
-      "keywords": []
+      "name": "Backend Engineering",
+      "keywords": ["APIs", "Microservices", "Distributed Systems"]
     },
     {
-      "name": "Software Architect",
-      "keywords": []
+      "name": "DevOps & Cloud",
+      "keywords": ["CI/CD", "Terraform", "Docker", "Observability"]
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "level": "",
-      "keywords": [
-        "Python",
-        "Typescript/Javascript",
-        "Node.JS",
-        "Django",
-        "HTML",
-        "CSS"
-      ]
+      "keywords": ["Python", "TypeScript", "SQL", "Bash"]
     },
     {
-      "name": "Frameworks",
+      "name": "Backend",
       "level": "",
-      "keywords": [
-        "React",
-        "Angular",
-        "Ionic"
-      ]
+      "keywords": ["Django", "FastAPI", "Node.js", "REST APIs", "Async Workloads", "Background Jobs"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["PostgreSQL", "Redis"]
+    },
+    {
+      "name": "AI",
+      "level": "",
+      "keywords": ["LLM APIs", "Vector Databases", "Embeddings", "RAG Pipelines"]
+    },
+    {
+      "name": "Infrastructure & DevOps",
+      "level": "",
+      "keywords": ["Docker", "Terraform", "Git", "GitHub Actions", "Linux", "Nginx", "SSH", "OpenTelemetry"]
     },
     {
       "name": "Tools",
       "level": "",
-      "keywords": [
-        "AWS",
-        "Docker",
-        "NPM",
-        "Firebase",
-        "MongoDB",
-        "Postgres",
-        "MySQL",
-        "Figma",
-        "LaTeX"
-      ]
+      "keywords": ["Neovim", "Postman", "Markdown"]
     }
   ],
   "education": [
